@@ -23,5 +23,5 @@ The scope of the IA Allianz space is to foster the creation of various demo appl
 * ClearDB
 
 ### IA Allianz Space Overview
-<img src="IASpace.png" width="600">
+<img src="IASpace.png" width="850">
 
